@@ -25,6 +25,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 14 | 23 Aug 2026 | Loops without Arrays/Strings | **Q27**: Write a program to print the sum of the first...<br>**Q28**: Write a program to print the product of even ... | [`Q27`](Question_27_Day_14.c), [`Q28`](Question_28_Day_14.c) | ✅ Completed |
 | Day 15 | 24 Aug 2026 | Loops without Arrays/Strings | **Q29**: Write a program to calculate the factorial of...<br>**Q30**: Write a program to reverse a given number.... | [`Q29`](Question_29_Day_15.c), [`Q30`](Question_30_Day_15.c) | ✅ Completed |
 | Day 16 | 25 Aug 2026 | Loops without Arrays/Strings | **Q31**: Write a program to take a number as input and...<br>**Q32**: Write a program to check if a number is a pal... | [`Q31`](Question_31_Day_16.c), [`Q32`](Question_32_Day_16.c) | ✅ Completed |
+| Day 17 | 26 Aug 2026 | Loops without Arrays/Strings | **Q33**: Write a program to check if a number is an Ar...<br>**Q34**: Write a program to check if a number is prime... | [`Q33`](Question_33_Day_17.c), [`Q34`](Question_34_Day_17.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
