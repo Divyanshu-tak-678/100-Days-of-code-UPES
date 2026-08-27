@@ -26,6 +26,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 15 | 24 Aug 2026 | Loops without Arrays/Strings | **Q29**: Write a program to calculate the factorial of...<br>**Q30**: Write a program to reverse a given number.... | [`Q29`](Question_29_Day_15.c), [`Q30`](Question_30_Day_15.c) | ✅ Completed |
 | Day 16 | 25 Aug 2026 | Loops without Arrays/Strings | **Q31**: Write a program to take a number as input and...<br>**Q32**: Write a program to check if a number is a pal... | [`Q31`](Question_31_Day_16.c), [`Q32`](Question_32_Day_16.c) | ✅ Completed |
 | Day 17 | 26 Aug 2026 | Loops without Arrays/Strings | **Q33**: Write a program to check if a number is an Ar...<br>**Q34**: Write a program to check if a number is prime... | [`Q33`](Question_33_Day_17.c), [`Q34`](Question_34_Day_17.c) | ✅ Completed |
+| Day 18 | 27 Aug 2026 | Loops without Arrays/Strings | **Q35**: Write a program to print all factors of a giv...<br>**Q36**: Write a program to find the HCF (GCD) of two ... | [`Q35`](Question_35_Day_18.c), [`Q36`](Question_36_Day_18.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
