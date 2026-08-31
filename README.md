@@ -30,6 +30,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 19 | 28 Aug 2026 | Loops without Arrays/Strings | **Q37**: Write a program to find the LCM of two number...<br>**Q38**: Write a program to find the sum of digits of ... | [`Q37`](Question_37_Day_19.c), [`Q38`](Question_38_Day_19.c) | ✅ Completed |
 | Day 20 | 29 Aug 2026 | Loops without Arrays/Strings | **Q39**: Write a program to find the product of odd di...<br>**Q40**: Write a program to find the 1’s complement of... | [`Q39`](Question_39_Day_20.c), [`Q40`](Question_40_Day_20.c) | ✅ Completed |
 | Day 21 | 30 Aug 2026 | Loops without Arrays/Strings | **Q41**: Write a program to swap the first and last di...<br>**Q42**: Write a program to check if a number is a per... | [`Q41`](Question_41_Day_21.c), [`Q42`](Question_42_Day_21.c) | ✅ Completed |
+| Day 22 | 31 Aug 2026 | Loops without Arrays/Strings | **Q43**: Write a program to check if a number is a str...<br>**Q44**: Write a program to find the sum of the series... | [`Q43`](Question_43_Day_22.c), [`Q44`](Question_44_Day_22.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
