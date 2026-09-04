@@ -34,6 +34,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 23 | 01 Sep 2026 | Loops without Arrays/Strings | **Q45**: Write a program to find the sum of the series...<br>**Q46**: Write a program to print the following patter... | [`Q45`](Question_45_Day_23.c), [`Q46`](Question_46_Day_23.c) | ✅ Completed |
 | Day 24 | 02 Sep 2026 | Nested Loops without Arrays/Strings | **Q47**: Write a program to print the following patter...<br>**Q48**: Write a program to print the following patter... | [`Q47`](Question_47_Day_24.c), [`Q48`](Question_48_Day_24.c) | ✅ Completed |
 | Day 25 | 03 Sep 2026 | Nested Loops without Arrays/Strings | **Q49**: Write a program to print the following patter...<br>**Q50**: Write a program to print the following patter... | [`Q49`](Question_49_Day_25.c), [`Q50`](Question_50_Day_25.c) | ✅ Completed |
+| Day 26 | 04 Sep 2026 | Nested Loops without Arrays/Strings | **Q51**: Write a program to print the following patter...<br>**Q52**: Write a program to print the following patter... | [`Q51`](Question_51_Day_26.c), [`Q52`](Question_52_Day_26.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
