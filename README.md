@@ -37,6 +37,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 26 | 04 Sep 2026 | Nested Loops without Arrays/Strings | **Q51**: Write a program to print the following patter...<br>**Q52**: Write a program to print the following patter... | [`Q51`](Question_51_Day_26.c), [`Q52`](Question_52_Day_26.c) | ✅ Completed |
 | Day 27 | 05 Sep 2026 | Nested Loops without Arrays/Strings | **Q53**: Write a program to print the following patter...<br>**Q54**: Write a program to print the following patter... | [`Q53`](Question_53_Day_27.c), [`Q54`](Question_54_Day_27.c) | ✅ Completed |
 | Day 28 | 06 Sep 2026 | Nested Loops without Arrays/Strings | **Q55**: Write a program to print all the prime number...<br>**Q56**: Read and print elements of a one-dimensional ... | [`Q55`](Question_55_Day_28.c), [`Q56`](Question_56_Day_28.c) | ✅ Completed |
+| Day 29 | 07 Sep 2026 | Arrays (1D) | **Q57**: Find the sum of array elements....<br>**Q58**: Find the maximum and minimum element in an ar... | [`Q57`](Question_57_Day_29.c), [`Q58`](Question_58_Day_29.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
