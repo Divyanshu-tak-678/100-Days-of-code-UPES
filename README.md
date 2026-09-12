@@ -42,6 +42,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 31 | 09 Sep 2026 | Arrays (1D) | **Q61**: Search for an element in an array using linea...<br>**Q62**: Reverse an array without taking extra space.... | [`Q61`](Question_61_Day_31.c), [`Q62`](Question_62_Day_31.c) | ✅ Completed |
 | Day 32 | 10 Sep 2026 | Arrays (1D) | **Q63**: Merge two arrays....<br>**Q64**: Find the digit that occurs the most times in ... | [`Q63`](Question_63_Day_32.c), [`Q64`](Question_64_Day_32.c) | ✅ Completed |
 | Day 33 | 11 Sep 2026 | Arrays (1D) | **Q65**: Search in a sorted array using binary search....<br>**Q66**: Insert an element in a sorted array at the ap... | [`Q65`](Question_65_Day_33.c), [`Q66`](Question_66_Day_33.c) | ✅ Completed |
+| Day 34 | 12 Sep 2026 | Arrays (1D) | **Q67**: Insert an element in an array at a given posi...<br>**Q68**: Delete an element from an array.... | [`Q67`](Question_67_Day_34.c), [`Q68`](Question_68_Day_34.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
