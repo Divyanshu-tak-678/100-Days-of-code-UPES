@@ -45,6 +45,7 @@ The challenge follows the official schedule starting **August 10, 2026** (2 prob
 | Day 34 | 12 Sep 2026 | Arrays (1D) | **Q67**: Insert an element in an array at a given posi...<br>**Q68**: Delete an element from an array.... | [`Q67`](Question_67_Day_34.c), [`Q68`](Question_68_Day_34.c) | ✅ Completed |
 | Day 35 | 13 Sep 2026 | Arrays (1D) | **Q69**: Find the second largest element in an array....<br>**Q70**: Rotate an array to the right by k positions.... | [`Q69`](Question_69_Day_35.c), [`Q70`](Question_70_Day_35.c) | ✅ Completed |
 | Day 36 | 14 Sep 2026 | 2D Arrays | **Q71**: Read and print a matrix....<br>**Q72**: Find the sum of all elements in a matrix.... | [`Q71`](Question_71_Day_36.c), [`Q72`](Question_72_Day_36.c) | ✅ Completed |
+| Day 37 | 15 Sep 2026 | 2D Arrays | **Q73**: Find the sum of each row of a matrix and stor...<br>**Q74**: Find the transpose of a matrix.... | [`Q73`](Question_73_Day_37.c), [`Q74`](Question_74_Day_37.c) | ✅ Completed |
 
 ## 📂 Repository Structure
 
