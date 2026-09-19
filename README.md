@@ -1,4 +1,4 @@
-# UPES 100 Days of Code Challenge
+﻿# UPES 100 Days of Code Challenge
 
 > Solutions to the **100 Days of Code Challenge** organized by UPES.
 > Official Challenge Portal: [UPES 100 Days of Code](https://maitysoumik.github.io/basic-coding-with-c/)
